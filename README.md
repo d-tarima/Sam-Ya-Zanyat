@@ -53,6 +53,8 @@ Sam-Ya-Zanyat/
 
    Если видите что-то вроде `git version 2.xx.x` — Git установлен.
 
+5. git config --global user.name "<ваше_имя>"    — установка имени (логин гитхаба)
+6. git config --global user.email "<адрес_почты@email.com>"   — установка почты
 ---
 
 ### 1.2. Установить Python 
